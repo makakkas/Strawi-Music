@@ -16,26 +16,86 @@
 
 ## ¿Qué es Strawi Music?
 
-**Strawi Music** es un launcher de música para escritorio creado con la idea de ofrecer una experiencia musical mucho más libre, personalizable y controlada por el propio usuario.
+**Strawi Music** es un launcher de música para escritorio enfocado en la personalización, la organización local y en darle al usuario mayor control sobre su experiencia musical.
 
-El proyecto utiliza APIs, integraciones y servicios relacionados con **YouTube y YouTube Music** para buscar, descubrir, organizar y reproducir música desde una interfaz propia.
+El proyecto utiliza APIs, integraciones y servicios relacionados con **YouTube y YouTube Music** para permitir buscar, descubrir, organizar y reproducir música desde una interfaz propia.
 
-A diferencia de un reproductor tradicional, Strawi Music está pensado como una plataforma que pueda crecer mediante temas, extensiones, herramientas locales y nuevas formas de organizar la música.
+La idea detrás de Strawi Music es no quedarse solamente con un reproductor tradicional.
 
-La idea principal es simple:
+El objetivo es construir una plataforma musical que pueda adaptarse a cada persona mediante:
 
-> Que el usuario pueda decidir cómo quiere que se vea, cómo quiere que funcione y cómo quiere organizar su música.
+- Temas.
+- Extensiones.
+- CSS personalizado.
+- Biblioteca local.
+- Diferentes diseños.
+- Herramientas propias.
+- Funciones experimentales.
+- Inteligencia artificial local.
 
-Strawi Music es un proyecto creado en **Chile 🇨🇱**, completamente gratuito y de código abierto.
+Strawi Music es un proyecto gratuito y de código abierto creado en **Chile 🇨🇱**.
 
-> ⚠️ Strawi Music actualmente se encuentra en desarrollo activo.  
-> Muchas funciones todavía pueden cambiar, mejorar o ser reemplazadas antes de una versión estable.
+> Strawi Music se encuentra actualmente en desarrollo activo.  
+> Muchas funciones todavía pueden cambiar, mejorar o ser reemplazadas antes de llegar a una versión estable.
+
+---
+
+# 👨‍💻 Sobre el proyecto
+
+Strawi Music fue creado por **Makakas**, estudiante de informática, principalmente como un proyecto personal para aprender, experimentar y aplicar conocimientos relacionados con el desarrollo de software.
+
+El proyecto nace con la intención de poner en práctica conocimientos de distintas áreas, entre ellas:
+
+- Programación.
+- Desarrollo de aplicaciones de escritorio.
+- Desarrollo Front-End.
+- Desarrollo Back-End.
+- APIs.
+- Manejo de datos.
+- Interfaces de usuario.
+- Experiencia de usuario.
+- Inteligencia artificial.
+- Modelos ejecutados localmente.
+- Integración entre diferentes tecnologías.
+- Organización y arquitectura de proyectos.
+- Desarrollo de sistemas de personalización.
+- Manejo de configuraciones y almacenamiento local.
+
+Más que intentar crear solamente un reproductor de música, Strawi Music también funciona como un proyecto de aprendizaje continuo.
+
+Muchas partes del sistema han nacido de probar ideas, cometer errores, rehacer funciones y aprender nuevas tecnologías durante el desarrollo.
+
+---
+
+# 🤖 Uso de inteligencia artificial durante el desarrollo
+
+Durante el desarrollo de Strawi Music también se han utilizado herramientas de inteligencia artificial como apoyo.
+
+La IA ha sido utilizada principalmente para:
+
+- Organizar ideas.
+- Analizar posibles implementaciones.
+- Ayudar con documentación.
+- Revisar código.
+- Detectar posibles errores.
+- Proponer estructuras.
+- Explicar tecnologías.
+- Ayudar con prototipos.
+- Mejorar partes del código.
+- Investigar soluciones.
+- Ordenar tareas de desarrollo.
+
+La dirección del proyecto, las decisiones, el concepto, las funciones y el desarrollo general son realizados y supervisados por **Makakas**.
+
+La inteligencia artificial es utilizada como una herramienta de apoyo durante el proceso de aprendizaje y desarrollo, no como reemplazo de la toma de decisiones del proyecto.
+
+Strawi Music también sirve como una forma de aprender a trabajar junto a nuevas herramientas de inteligencia artificial aplicadas al desarrollo de software.
 
 ---
 
 # 🎵 Características
 
-Strawi Music busca reunir reproducción, biblioteca, personalización y herramientas inteligentes dentro de una sola aplicación.
+Strawi Music busca reunir reproducción, biblioteca, personalización y herramientas adicionales dentro de una misma aplicación.
 
 Entre sus funciones actuales y planificadas se encuentran:
 
@@ -45,61 +105,64 @@ Entre sus funciones actuales y planificadas se encuentran:
 - Playlists locales.
 - Álbumes guardados.
 - Canciones guardadas.
-- Sistema de canciones favoritas y "Me gusta".
+- Canciones favoritas.
+- Sistema de "Me gusta".
 - Historial de reproducción.
-- Importación y exportación de biblioteca.
+- Exportación de biblioteca.
+- Importación de biblioteca.
 - Temas personalizados.
 - CSS personalizado.
-- Diferentes estilos de interfaz.
-- Marketplace de temas y extensiones.
-- Extensiones creadas por la comunidad.
+- Marketplace.
+- Extensiones.
+- Diferentes diseños de interfaz.
 - Personalización del reproductor.
 - Discord Rich Presence.
 - Visualizador de música.
-- Configuración almacenada localmente.
-- DJStrawi con inteligencia artificial local.
+- Configuraciones locales.
+- DJStrawi.
+- Inteligencia artificial local.
 - Creación de playlists mediante IA.
-- Instalación del modelo de IA directamente desde el launcher.
-- Modo seguro para solucionar problemas con temas o extensiones.
+- Instalación del modelo de IA desde el propio launcher.
+- Modo seguro para solucionar problemas.
 
-Y esto recién empieza.
+Strawi Music todavía está creciendo y muchas otras funciones podrán aparecer durante su desarrollo.
 
 ---
 
 # 💾 Biblioteca local
 
-Uno de los puntos principales de Strawi Music es mantener gran parte de la biblioteca del usuario directamente en su propio computador.
+Uno de los puntos principales de Strawi Music es que gran parte de la biblioteca personal del usuario se almacena directamente en su propio computador.
 
-Elementos como:
+Esto incluye información como:
 
-- Playlists.
+- Playlists creadas.
 - Álbumes guardados.
 - Canciones guardadas.
 - Canciones con "Me gusta".
 - Favoritos.
 - Historial.
 - Preferencias.
-- Configuración de la aplicación.
+- Configuración.
+- Información relacionada con la biblioteca.
 
-pueden almacenarse de manera local.
+La idea es que el usuario pueda mantener el control de su propia organización musical sin depender completamente de una cuenta externa.
 
-Esto permite que la organización personal del usuario no dependa completamente de una cuenta externa.
-
-Strawi Music busca que tus playlists, preferencias y biblioteca permanezcan bajo tu control.
+Strawi Music busca que tus playlists, tus preferencias y tu biblioteca permanezcan principalmente bajo tu control.
 
 ---
 
-## 📦 Exportar e importar biblioteca
+# 📦 Importar y exportar biblioteca
 
-La biblioteca local de Strawi Music puede ser respaldada mediante archivos **JSON**.
+Strawi Music permitirá exportar información de la biblioteca local mediante archivos **JSON**.
 
-El objetivo es permitir exportar información como:
+Por ejemplo:
 
 ```text
 Playlists
-Canciones guardadas
+Canciones
 Álbumes
 Me gusta
 Favoritos
+Preferencias
 Configuraciones
 Otros datos locales
