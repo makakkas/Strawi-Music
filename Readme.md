@@ -1,127 +1,135 @@
 # Strawi Music
 
-Strawi Music is a desktop music player focused on customization, simplicity and giving the user more control over their music experience.
+Strawi Music es un reproductor de música de escritorio enfocado en la personalización, la comodidad y en darle al usuario mayor control sobre cómo quiere escuchar y organizar su música.
 
-The project is built around the YouTube / YouTube Music ecosystem, but with its own interface and additional features such as themes, extensions, local playlists, custom CSS and other tools that are not normally available in the standard experience.
+El proyecto utiliza el ecosistema de YouTube y YouTube Music como fuente de contenido, pero incorpora una interfaz propia y diferentes funciones adicionales, como temas, extensiones, playlists locales, CSS personalizado y otras opciones que normalmente no están disponibles en la experiencia estándar.
 
-> Strawi Music is currently under development.  
-> A public release will be available soon.
+> Strawi Music actualmente se encuentra en desarrollo.  
+> Próximamente habrá una versión pública disponible.
 
-## What is Strawi Music?
+## ¿Qué es Strawi Music?
 
-The idea behind Strawi Music is pretty simple:
+La idea detrás de Strawi Music nació de querer tener una aplicación de música que pudiera modificarse realmente según los gustos de cada usuario.
 
-I wanted a music app that could be customized without having to accept the same interface forever.
+En vez de quedarse solamente con una interfaz fija, Strawi Music busca permitir que el usuario cambie la apariencia, distribución y distintos elementos de la aplicación.
 
-Strawi Music aims to provide a modern desktop experience where the interface, player and library can be adapted to the user.
+Es un proyecto creado en Chile y desarrollado principalmente como proyecto personal, experimentando con aplicaciones de escritorio, reproducción de música, APIs, personalización y funciones locales.
 
-The project is being developed mainly as a personal project, while experimenting with desktop development, music APIs, customization systems and local features.
+## Funciones
 
-## Features
+Entre las funciones actuales y planificadas se encuentran:
 
-Current and planned features include:
-
-- YouTube / YouTube Music search and music discovery
-- Custom music player
-- Local playlists
-- Favorites and listening history
-- Themes
-- Custom CSS
-- Marketplace for themes and extensions
-- Multiple interface layouts
+- Búsqueda de música mediante YouTube / YouTube Music
+- Reproductor de música propio
+- Playlists locales
+- Favoritos
+- Historial de reproducción
+- Temas personalizados
+- CSS personalizado
+- Marketplace de temas y extensiones
+- Diferentes estilos de interfaz
 - Discord Rich Presence
-- Music visualizer
-- Local configuration and preferences
-- Optional account and library synchronization
-- Custom player appearance
-- Safe Mode for troubleshooting themes or extensions
+- Visualizador de música
+- Configuración guardada localmente
+- Sincronización opcional de cuenta y biblioteca
+- Personalización del reproductor
+- Modo seguro para desactivar temporalmente temas o extensiones
 
-More features are planned as development continues.
+Strawi Music continúa en desarrollo, por lo que se irán agregando nuevas funciones con el tiempo.
 
-## Customization
+## Personalización
 
-One of the main goals of Strawi Music is customization.
+Uno de los objetivos principales del proyecto es que cada usuario pueda adaptar Strawi Music a su gusto.
 
-Users will be able to change things such as:
+Se podrán modificar elementos como:
 
-- Colors
-- Backgrounds
-- Blur
-- Album artwork style
-- Playlist layout
-- Song layout
-- Player appearance
-- Interface density
-- Custom CSS
+- Colores
+- Fondos
+- Desenfoque
+- Estilo de las carátulas
+- Distribución de playlists
+- Distribución de canciones
+- Apariencia del reproductor
+- Tamaño y densidad de la interfaz
+- CSS personalizado
 
-Some built-in styles currently include:
+Algunos estilos incluidos o planificados son:
 
 `Default` · `AMOLED` · `Glass` · `Compact` · `Makaka`
 
 ## Marketplace
 
-Strawi Music will include its own marketplace for installing and managing:
+Strawi Music contará con un marketplace propio desde donde se podrán instalar y gestionar:
 
-- Themes
-- Extensions
-- Visual modifications
-- Community customizations
+- Temas
+- Extensiones
+- Modificaciones visuales
+- Personalizaciones creadas por la comunidad
 
-The marketplace is still being developed.
+Esta sección todavía se encuentra en desarrollo.
 
-## Local library
+## Biblioteca local
 
-Strawi Music also includes local features that do not depend entirely on an online account.
+Strawi Music también busca incluir diferentes funciones que puedan mantenerse de manera local en el computador del usuario.
 
-This includes local playlists, favorites, history and application preferences.
+Por ejemplo:
 
-The goal is to keep as much control as possible on the user's own computer.
+- Playlists locales
+- Favoritos
+- Historial
+- Configuración de la aplicación
+- Preferencias de interfaz
 
-## Development status
+La idea es que el usuario tenga el mayor control posible sobre su propia experiencia.
 
-Strawi Music is still a work in progress.
+## Estado del proyecto
 
-Some parts of the application are functional, while others are currently being implemented or redesigned.
+Strawi Music todavía se encuentra en desarrollo activo.
 
-Because of this, things may change frequently between versions.
+Algunas funciones ya se encuentran operativas, mientras que otras todavía están siendo implementadas, mejoradas o rediseñadas.
 
-### Current focus
+Por esto, la estructura del proyecto y algunas características pueden cambiar entre versiones.
 
-`Player` → `Marketplace` → `Library` → `Customization` → `Sync` → `Extensions`
+### Prioridades actuales
 
-## Tech
+`Reproductor` → `Marketplace` → `Biblioteca` → `Personalización` → `Sincronización` → `Extensiones`
 
-Strawi Music is being developed using technologies such as:
+## Tecnologías
+
+Strawi Music utiliza distintas tecnologías dependiendo de cada parte del proyecto.
+
+Entre ellas:
 
 - Electron
 - JavaScript / TypeScript
-- HTML / CSS
+- HTML
+- CSS
 - Node.js
 - Python
-- YouTube Music related APIs
+- APIs relacionadas con YouTube Music
 
-The internal architecture may change while the project is under active development.
+La arquitectura todavía puede cambiar mientras el proyecto continúe en desarrollo.
 
-## Running locally
+## Instalación
 
-Development instructions will be added once the project structure is stable enough for public testing.
+Las instrucciones de instalación estarán disponibles cuando exista una versión suficientemente estable para ser probada públicamente.
 
-For now, Strawi Music is not considered ready for normal installation.
+Actualmente Strawi Music no posee una versión estable para usuarios finales.
 
-## Release
+## Próximamente
 
-There is currently no public stable release.
+Todavía no existe una versión pública estable.
 
-**Coming soon.**
+**Strawi Music estará disponible próximamente.**
 
-## Disclaimer
+## Aviso
 
-Strawi Music is an independent project and is not affiliated with, endorsed by or sponsored by YouTube, YouTube Music or Google.
+Strawi Music es un proyecto independiente y no está afiliado, patrocinado ni respaldado por YouTube, YouTube Music o Google.
 
-Strawi Music does not host music content itself.
+Strawi Music no aloja directamente contenido musical.
 
-YouTube and YouTube Music are trademarks of their respective owners.
+YouTube y YouTube Music pertenecen a sus respectivos propietarios.
 
 ---
 
-Made by **makakkas**
+Hecho en Chile 🇨🇱 por **makakkas**
